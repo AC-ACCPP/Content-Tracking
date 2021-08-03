@@ -213,6 +213,8 @@ https://asheron.fandom.com/wiki/Pants"
 https://asheron.fandom.com/wiki/Qafiya"
 129,Sandals,sandals,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Sandals
 https://asheron.fandom.com/wiki/Sandals"
+130,Shirt,shirt,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Shirt
+https://asheron.fandom.com/wiki/Shirt"
 132,Shoes,shoes,Retail,,,,,
 132,Shoes,shoes,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Shoes
 https://asheron.fandom.com/wiki/Shoes"
@@ -295,6 +297,8 @@ https://asheron.fandom.com/wiki/Brown_Armoredillo"
 https://asheron.fandom.com/wiki/Spikey_Armoredillo"
 180,Sandy Armoredillo,armoredillosandy,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Sandy_Armoredillo
 https://asheron.fandom.com/wiki/Sandy_Armoredillo"
+181,Auroch Cow,aurochcow,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Auroch_Cow
+https://asheron.fandom.com/wiki/Auroch_Cow"
 182,Auroch Yearling,aurochyearling,Retail,,,,,
 182,Auroch Yearling,aurochyearling,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Auroch_Yearling
 https://asheron.fandom.com/wiki/Auroch_Yearling"
@@ -306,6 +310,8 @@ https://asheron.fandom.com/wiki/Bandit"
 https://asheron.fandom.com/wiki/Bandit_Lord"
 188,Bandit Mage,banditmage,Retail,Creature,Finished,Heart of Woe,,"http://acpedia.org/wiki/Bandit_Mage
 https://asheron.fandom.com/wiki/Bandit_Mage"
+189,Cultist High Priest,culthighpriest,Retail,Creature,Finished,Waking From the Abyss,,"http://acpedia.org/wiki/Cultist_High_Priest_(Level_100)
+https://asheron.fandom.com/wiki/Cultist_High_Priest_(Level_100)"
 190,Cultist Cohort,cultmember,Retail,,,,,
 191,Cultist Priest,cultpriest,Retail,Creature,Finished,Waking From the Abyss,,"http://acpedia.org/wiki/Cultist_Priest
 https://asheron.fandom.com/wiki/Cultist_Priest"
@@ -12462,6 +12468,7 @@ https://asheron.fandom.com/wiki/Mud_Golem"
 12772,Outer Courtyard,portalareabyaraqe,Retail,,,,,
 12773,Central Courtyard,portalareabyaraqn,Retail,,,,,
 12774,Settlement Portals,statueportalring,Retail,,,,,
+12775,Cottage,housecottage1151,Retail,Housing,Finished,Keep Your Enemies Closer,,
 12776,Cottage,housecottage1152,Retail,,,,,
 12777,Cottage,housecottage1153,Retail,,,,,
 12778,Cottage,housecottage1154,Retail,,,,,
@@ -30903,9 +30910,15 @@ https://asheron.fandom.com/wiki/Mud_Golem"
 33165,Shadow Cyst,,Retail,,,,,
 33167,Umbral Soldier,,Retail,,,,,
 33168,Panumbral Soldier,ace33168-panumbralsoldier,Retail,,,,,
+33169,Boney Lump of Flesh,ace33169-boneylumpofflesh,Retail,Item,Finished,The Price of Loyalty,Shield of Isin Dule Quest,"http://acpedia.org/wiki/Boney_Lump_of_Flesh
+https://asheron.fandom.com/wiki/Boney_Lump_of_Flesh"
 33170,Lieutenant Beraxis,,Retail,,,,,
 33171,Lieutenant Shenza,,Retail,,,,,
 33172,Lieutenant Yezusthule,,Retail,,,,,
+33174,Panumbral Soldier,ace33174-panumbralsoldier,Retail,Creature,Finished,The Price of Loyalty,Shield of Isin Dule Quest,"http://acpedia.org/wiki/Panumbral_Soldier
+https://asheron.fandom.com/wiki/Panumbral_Soldier"
+33175,Umbral Soldier,umbralsoldier,The Price of Loyalty,Creature,Finished,The Price of Loyalty,Shield of Isin Dule Quest,"http://acpedia.org/wiki/Umbral_Soldier
+https://asheron.fandom.com/wiki/Umbral_Soldier"
 33181,A Shadow Spire on the Caul,,Retail,,,,,
 33182,Fleshy Lump,,Retail,,,,,
 33183,Isin Dule's Orders,,Retail,,,,,
@@ -43122,6 +43135,31 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 73141,Spire's Outdoor Spawn1 Generator,,Retail,,,,,
 73142,Spire's Outdoor Spawn2 Generator,,Retail,,,,,
 73143,Spire's Outdoor Spawn3 Bosses Generator,,Retail,,,,,
+79964,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79965,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79966,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79967,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79968,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79969,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79970,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79971,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79972,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79973,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79974,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79975,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79976,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79977,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79978,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79979,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79980,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79981,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79982,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79983,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79984,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79985,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79986,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79987,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79988,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
 79989,,ace79989-slashinginfusion,Retail,,,,,
 79990,,ace79990-bludgeoninginfusion,Retail,,,,,
 79991,,ace79991-piercinginfusion,Retail,,,,,
