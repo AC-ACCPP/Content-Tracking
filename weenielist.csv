@@ -1,4 +1,4 @@
-﻿Weenie ID,Weenie String,Weenie Class Name,Release,Type,Status,Patch Name,Quest Name,Comments
+Weenie ID,Weenie String,Weenie Class Name,Release,Type,Status,Patch Name,Quest Name,Comments
 0,Empty,,Retail,,,,,
 1,Player Template,human,Retail,Other,Finished,,,Player Template
 3,Olthoi Worker,olthoiworker,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Olthoi_Worker
@@ -170,7 +170,7 @@ https://asheron.fandom.com/wiki/Platemail_Sleeves (Broken Tooltip)"
 https://asheron.fandom.com/wiki/Scalemail_Sleeves (Broken Tooltip)"
 105,Studded Leather Sleeves,sleevesstuddedleather,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Studded_Leather_Sleeves
 https://asheron.fandom.com/wiki/Studded_Leather_Sleeves"
-106,Yoroi Sleeves,sleevesyoroi,Retail,Generator,Finished,Release,,"http://acpedia.org/wiki/Yoroi_Sleeves
+106,Yoroi Sleeves,sleevesyoroi,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Yoroi_Sleeves
 https://asheron.fandom.com/wiki/Yoroi_Sleeves"
 107,Sollerets,sollerets,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Sollerets
 https://asheron.fandom.com/wiki/Sollerets"
@@ -43961,14 +43961,14 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 87368,,Large Bag of Food,Retail,,,,,
 87369,,Drudge Caretaker Gen,Retail,,,,,
 87370,Generator,Drudge Spire Gen,Retail,Generator,Finished,,,Generator
-87371,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87372,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87373,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87374,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87375,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87376,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87377,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87378,,,Retail,,Reserved,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87371,Haebrean Breastplate,zombiehaebreanbreastplate,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87372,Haebrean Girth,zombiehaebreangirth,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87373,Haebrean Tassets,zombiehaebreantassets,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87374,Haebrean Pauldrons,zombiehaebreanpauldrons,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87375,Haebrean Boots,zombiehaebreanboots,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87376,Haebrean Greaves,zombiehaebreangreaves,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87377,Haebrean Vambraces,zombiehaebreanvambraces,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
+87378,Haebrean Gauntlets,zombiehaebreangauntlets,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
 87379,,Under Drudge Fort Portal Gen,,,,,,
 87380,,Under Drudge Fort Portal Controller,,,,,,
 87381,,Under Drudge Fort Controller,,,,,,
@@ -44062,6 +44062,17 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 87469,,,,,,,,
 87470,,Lab Guardian's Key,,,,,,
 87471,,Surface (Southern Shroud Cabal),,,,,,
+87473,Surface,blightfingerwarrenssurface,Retail,Portal,Finished,Upping the Ante,Blightfinger Quest,
+87474,Blightfinger,blightfinger,Retail,Creature,Finished,Upping the Ante,Blightfinger Quest,"http://acpedia.org/wiki/Blightfinger
+https://asheron.fandom.com/wiki/Blightfinger"
+87475,Hand of Blightfinger,handofblightfinger,Retail,Item,Finished,Upping the Ante,Blightfinger Quest,"http://acpedia.org/wiki/Hand_of_Blightfinger
+https://asheron.fandom.com/wiki/Hand_of_Blightfinger"
+87476,Carved Platinum Heart,carvedplatinumheart,Retail,Item,Finished,Upping the Ante,Blightfinger Quest,"http://acpedia.org/wiki/Carved_Platinum_Heart
+https://asheron.fandom.com/wiki/Carved_Platinum_Heart"
+87477,Club of Remarkable Cunning,clubofremarkablecunning,Retail,Item,Finished,Upping the Ante,Blightfinger Quest,"http://acpedia.org/wiki/Club_of_Remarkable_Cunning
+https://asheron.fandom.com/wiki/Club_of_Remarkable_Cunning"
+87478,Blightfinger's Warrens,blightfingerswarrens,Retail,Portal,Finished,Upping the Ante,Blightfinger Quest,"http://acpedia.org/wiki/Blightfinger%27s_Warrens
+https://asheron.fandom.com/wiki/Blightfinger%27s_Warrens"
 5000200,,Rock <unselectable>,Custom,,,,,
 5000201,,large rock <unselectable>,Custom,,,,,
 5000202,,Huge Rock <unselectable>,Custom,,,,,
