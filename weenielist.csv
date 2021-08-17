@@ -215,9 +215,6 @@ https://asheron.fandom.com/wiki/Qafiya"
 https://asheron.fandom.com/wiki/Sandals"
 130,Shirt,shirt,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Shirt
 https://asheron.fandom.com/wiki/Shirt"
-132,Shoes,shoes,Retail,,,,,
-132,Shoes,shoes,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Shoes
-https://asheron.fandom.com/wiki/Shoes"
 133,Slippers,slippers,Retail,,,,,
 134,Tunic,tunic,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Tunic
 https://asheron.fandom.com/wiki/Tunic"
@@ -299,9 +296,6 @@ https://asheron.fandom.com/wiki/Spikey_Armoredillo"
 https://asheron.fandom.com/wiki/Sandy_Armoredillo"
 181,Auroch Cow,aurochcow,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Auroch_Cow
 https://asheron.fandom.com/wiki/Auroch_Cow"
-182,Auroch Yearling,aurochyearling,Retail,,,,,
-182,Auroch Yearling,aurochyearling,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Auroch_Yearling
-https://asheron.fandom.com/wiki/Auroch_Yearling"
 183,Banderling Raver,banderlingraver,Retail,,,,,
 184,Banderling Captain,banderlingcaptain,Retail,,,,,
 185,Bandit,bandit,Retail,Creature,Finished,Dark Majesty,,"http://acpedia.org/wiki/Bandit
@@ -313,9 +307,6 @@ https://asheron.fandom.com/wiki/Bandit_Mage"
 189,Cultist High Priest,culthighpriest,Retail,Creature,Finished,Waking From the Abyss,,"http://acpedia.org/wiki/Cultist_High_Priest_(Level_100)
 https://asheron.fandom.com/wiki/Cultist_High_Priest_(Level_100)"
 190,Cultist Cohort,cultmember,Retail,,,,,
-191,Cultist Priest,cultpriest,Retail,Creature,Finished,Waking From the Abyss,,"http://acpedia.org/wiki/Cultist_Priest
-https://asheron.fandom.com/wiki/Cultist_Priest"
-191,Cultist Priest,cultpriest,Retail,,,,,
 192,Drudge Prowler,drudgeprowler,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Drudge_Prowler
 https://asheron.fandom.com/wiki/Drudge_Prowler"
 193,Drudge Slinker,drudgeslinker,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Drudge_Slinker
@@ -15044,8 +15035,6 @@ https://asheron.fandom.com/wiki/Mud_Golem"
 15455,Apartment,houseapartment2854,Retail,,,,,
 15456,Apartment,houseapartment2855,Retail,,,,,
 15457,Apartment,houseapartment2856,Retail,,,,,
-15458,Cottage,housecottage2651,Retail,Housing,Finished,Keep Your Enemies Closer,,
-15458,Cottage,housecottage2651,Retail,,,,,
 15459,Cottage,housecottage2652,Retail,,,,,
 15460,Cottage,housecottage2653,Retail,,,,,
 15461,Cottage,housecottage2654,Retail,,,,,
@@ -43072,31 +43061,31 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 72498,0,0,Retail,,,,,
 72499,0,0,Retail,,,,,
 72500,0,0,Retail,,,,,
-72501,,,Retail,,Reserved,,,Hoshino
-72502,,,Retail,,Reserved,,,Hoshino
-72503,,,Retail,,Reserved,,,Hoshino
-72504,,,Retail,,Reserved,,,Hoshino
-72505,,,Retail,,Reserved,,,Hoshino
-72506,,,Retail,,Reserved,,,Hoshino
-72507,,,Retail,,Reserved,,,Hoshino
-72508,,,Retail,,Reserved,,,Hoshino
-72509,,,Retail,,Reserved,,,Hoshino
-72510,,,Retail,,Reserved,,,Hoshino
-72511,,,Retail,,Reserved,,,Hoshino
-72512,,,Retail,,Reserved,,,Hoshino
-72513,,,Retail,,Reserved,,,Hoshino
-72514,,,Retail,,Reserved,,,Hoshino
-72515,,,Retail,,Reserved,,,Hoshino
-72516,,,Retail,,Reserved,,,Hoshino
-72517,,,Retail,,Reserved,,,Hoshino
-72518,,,Retail,,Reserved,,,Hoshino
-72519,,,Retail,,Reserved,,,Hoshino
-72520,,,Retail,,Reserved,,,Hoshino
-72521,,,Retail,,Reserved,,,Hoshino
-72522,,,Retail,,Reserved,,,Hoshino
-72523,,,Retail,,Reserved,,,Hoshino
-72524,,,Retail,,Reserved,,,Hoshino
-72525,,,Retail,,Reserved,,,Hoshino
+72526,,,Retail,,Reserved,,,Hoshino
+72527,,,Retail,,Reserved,,,Hoshino
+72528,,,Retail,,Reserved,,,Hoshino
+72529,,,Retail,,Reserved,,,Hoshino
+72530,,,Retail,,Reserved,,,Hoshino
+72531,,,Retail,,Reserved,,,Hoshino
+72532,,,Retail,,Reserved,,,Hoshino
+72533,,,Retail,,Reserved,,,Hoshino
+72534,,,Retail,,Reserved,,,Hoshino
+72535,,,Retail,,Reserved,,,Hoshino
+72536,,,Retail,,Reserved,,,Hoshino
+72537,,,Retail,,Reserved,,,Hoshino
+72538,,,Retail,,Reserved,,,Hoshino
+72539,,,Retail,,Reserved,,,Hoshino
+72540,,,Retail,,Reserved,,,Hoshino
+72541,,,Retail,,Reserved,,,Hoshino
+72542,,,Retail,,Reserved,,,Hoshino
+72543,,,Retail,,Reserved,,,Hoshino
+72544,,,Retail,,Reserved,,,Hoshino
+72545,,,Retail,,Reserved,,,Hoshino
+72546,,,Retail,,Reserved,,,Hoshino
+72547,,,Retail,,Reserved,,,Hoshino
+72548,,,Retail,,Reserved,,,Hoshino
+72549,,,Retail,,Reserved,,,Hoshino
+72550,,,Retail,,Reserved,,,Hoshino
 73020,Surface Portal,,Retail,,,,,
 73043,0,ace73043-ruschktotem,Retail,,,,,
 73049,Empty Dye Pot,ace73049-emptydyepot,Retail,,,,,
@@ -43160,56 +43149,6 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 73141,Spire's Outdoor Spawn1 Generator,,Retail,,,,,
 73142,Spire's Outdoor Spawn2 Generator,,Retail,,,,,
 73143,Spire's Outdoor Spawn3 Bosses Generator,,Retail,,,,,
-74501,,,Retail,,Reserved,,,Hoshino
-74502,,,Retail,,Reserved,,,Hoshino
-74503,,,Retail,,Reserved,,,Hoshino
-74504,,,Retail,,Reserved,,,Hoshino
-74505,,,Retail,,Reserved,,,Hoshino
-74506,,,Retail,,Reserved,,,Hoshino
-74507,,,Retail,,Reserved,,,Hoshino
-74508,,,Retail,,Reserved,,,Hoshino
-74509,,,Retail,,Reserved,,,Hoshino
-74510,,,Retail,,Reserved,,,Hoshino
-74511,,,Retail,,Reserved,,,Hoshino
-74512,,,Retail,,Reserved,,,Hoshino
-74513,,,Retail,,Reserved,,,Hoshino
-74514,,,Retail,,Reserved,,,Hoshino
-74515,,,Retail,,Reserved,,,Hoshino
-74516,,,Retail,,Reserved,,,Hoshino
-74517,,,Retail,,Reserved,,,Hoshino
-74518,,,Retail,,Reserved,,,Hoshino
-74519,,,Retail,,Reserved,,,Hoshino
-74520,,,Retail,,Reserved,,,Hoshino
-74521,,,Retail,,Reserved,,,Hoshino
-74522,,,Retail,,Reserved,,,Hoshino
-74523,,,Retail,,Reserved,,,Hoshino
-74524,,,Retail,,Reserved,,,Hoshino
-74525,,,Retail,,Reserved,,,Hoshino
-79964,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79965,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79966,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79967,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79968,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79969,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79970,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79971,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79972,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79973,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79974,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79975,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79976,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79977,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79978,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79979,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79980,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79981,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79982,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79983,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79984,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79985,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79986,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79987,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79988,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
 79989,,ace79989-slashinginfusion,Retail,,,,,
 79990,,ace79990-bludgeoninginfusion,Retail,,,,,
 79991,,ace79991-piercinginfusion,Retail,,,,,
@@ -43961,14 +43900,6 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 87368,,Large Bag of Food,Retail,,,,,
 87369,,Drudge Caretaker Gen,Retail,,,,,
 87370,Generator,Drudge Spire Gen,Retail,Generator,Finished,,,Generator
-87371,Haebrean Breastplate,zombiehaebreanbreastplate,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87372,Haebrean Girth,zombiehaebreangirth,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87373,Haebrean Tassets,zombiehaebreantassets,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87374,Haebrean Pauldrons,zombiehaebreanpauldrons,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87375,Haebrean Boots,zombiehaebreanboots,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87376,Haebrean Greaves,zombiehaebreangreaves,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87377,Haebrean Vambraces,zombiehaebreanvambraces,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
-87378,Haebrean Gauntlets,zombiehaebreangauntlets,Retail,Item,Finished,Balance of Power,,Haebrean Armor for Zombie Combat Pets
 87379,,Under Drudge Fort Portal Gen,,,,,,
 87380,,Under Drudge Fort Portal Controller,,,,,,
 87381,,Under Drudge Fort Controller,,,,,,
