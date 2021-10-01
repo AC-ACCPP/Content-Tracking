@@ -1,4 +1,4 @@
-Weenie ID,Weenie String,Weenie Class Name,Release,Type,Status,Patch Name,Quest Name,Comments
+﻿Weenie ID,Weenie String,Weenie Class Name,Release,Type,Status,Patch Name,Quest Name,Comments
 0,Empty,,Retail,,,,,
 1,Player Template,human,Retail,Other,Finished,,,Player Template
 3,Olthoi Worker,olthoiworker,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Olthoi_Worker
@@ -216,8 +216,6 @@ https://asheron.fandom.com/wiki/Sandals"
 130,Shirt,shirt,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Shirt
 https://asheron.fandom.com/wiki/Shirt"
 132,Shoes,shoes,Retail,,,,,
-132,Shoes,shoes,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Shoes
-https://asheron.fandom.com/wiki/Shoes"
 133,Slippers,slippers,Retail,,,,,
 134,Tunic,tunic,Retail,Item,Finished,Release,,"http://acpedia.org/wiki/Tunic
 https://asheron.fandom.com/wiki/Tunic"
@@ -300,8 +298,6 @@ https://asheron.fandom.com/wiki/Sandy_Armoredillo"
 181,Auroch Cow,aurochcow,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Auroch_Cow
 https://asheron.fandom.com/wiki/Auroch_Cow"
 182,Auroch Yearling,aurochyearling,Retail,,,,,
-182,Auroch Yearling,aurochyearling,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Auroch_Yearling
-https://asheron.fandom.com/wiki/Auroch_Yearling"
 183,Banderling Raver,banderlingraver,Retail,,,,,
 184,Banderling Captain,banderlingcaptain,Retail,,,,,
 185,Bandit,bandit,Retail,Creature,Finished,Dark Majesty,,"http://acpedia.org/wiki/Bandit
@@ -315,7 +311,6 @@ https://asheron.fandom.com/wiki/Cultist_High_Priest_(Level_100)"
 190,Cultist Cohort,cultmember,Retail,,,,,
 191,Cultist Priest,cultpriest,Retail,Creature,Finished,Waking From the Abyss,,"http://acpedia.org/wiki/Cultist_Priest
 https://asheron.fandom.com/wiki/Cultist_Priest"
-191,Cultist Priest,cultpriest,Retail,,,,,
 192,Drudge Prowler,drudgeprowler,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Drudge_Prowler
 https://asheron.fandom.com/wiki/Drudge_Prowler"
 193,Drudge Slinker,drudgeslinker,Retail,Creature,Finished,Release,,"http://acpedia.org/wiki/Drudge_Slinker
@@ -15045,7 +15040,6 @@ https://asheron.fandom.com/wiki/Mud_Golem"
 15456,Apartment,houseapartment2855,Retail,,,,,
 15457,Apartment,houseapartment2856,Retail,,,,,
 15458,Cottage,housecottage2651,Retail,Housing,Finished,Keep Your Enemies Closer,,
-15458,Cottage,housecottage2651,Retail,,,,,
 15459,Cottage,housecottage2652,Retail,,,,,
 15460,Cottage,housecottage2653,Retail,,,,,
 15461,Cottage,housecottage2654,Retail,,,,,
@@ -40469,6 +40463,7 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 53051,Ancient Statue of the Viridian Rise,,Retail,,,,,
 53053,Ancient Statue of the Viridian Rise,,Retail,,,,,
 53055,Ancient Statue of the Viridian Rise,,Retail,,,,,
+53057,Ancient Statue of the Viridian Rise,ace53057-ancientstatueoftheviridianrise,Retail,Item,,,,
 53060,Viridian Portal,,Retail,,,,,
 53061,Viridian Portal,,Retail,,,,,
 53062,Viridian Portal,,Retail,,,,,
@@ -40491,6 +40486,7 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 53100,Ancient Statue of the Viridian Rise,,Retail,,,,,
 53101,Ancient Statue of the Viridian Rise,,Retail,,,,,
 53102,Ancient Statue of the Viridian Rise,,Retail,,,,,
+53103,Ancient Statue of the Viridian Rise,ace53103-ancientstatueoftheviridianrise,Retail,Item,,,,
 53104,Ancient Statue of the Viridian Rise,,Retail,,,,,
 53105,Ancient Statue of the Viridian Rise,,Retail,,,,,
 53106,Ancient Statue of the Viridian Rise,,Retail,,,,,
@@ -40603,6 +40599,7 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 53299,Luminous Amber: Gauntlets of the Storm,,Retail,,,,,
 53300,Luminous Amber: Sollerets of the Storm,,Retail,,,,,
 53301,Luminous Amber: Helm of Healing,,Retail,,,,,
+53302,Scroll of Viridian Rise Recall,ace53302-scrollofviridianriserecall,Retail,Item,,,,
 53305,Gem of Verdant Force,,Retail,,,,,
 53306,Dridge,,Retail,,,,,
 53307,Stormwood Atlatl,,Retail,,,,,
@@ -40610,23 +40607,35 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 53309,Stormwood Bow,,Retail,,,,,
 53310,Stormwood Crossbow,,Retail,,,,,
 53312,Stormwood Mace,,Retail,,,,,
+53313,Stormwood Spear,ace53313-stormwoodspear,Retail,Item,,,,
 53314,Stormwood Staff,,Retail,,,,,
+53315,Stormwood Greatsword,ace53315-stormwoodgreatsword,Retail,Item,,,,
 53316,Stormwood Sword,,Retail,,,,,
 53317,Stormwood Claw,,Retail,,,,,
 53318,Stormwood Wand,,Retail,,,,,
+53320,Stormwood Axe,ace53320-stormwoodaxe,Retail,Item,,,,
 53321,Stormwood Bow,,Retail,,,,,
+53322,Stormwood Crossbow,ace53322-stormwoodcrossbow,Retail,Item,,,,
+53323,Stormwood Dagger,ace53323-stormwooddagger,Retail,Item,,,,
 53324,Electric Spiked Club,,Retail,,,,,
+53325,Stormwood Spear,ace53325-stormwoodspear,Retail,Item,,,,
+53327,Stormwood Greatsword,ace53327-stormwoodgreatsword,Retail,Item,,,,
 53328,Stormwood Sword,,Retail,,,,,
+53329,Stormwood Claw,ace53329-stormwoodclaw,Retail,Item,,,,
 53330,Stormwood Wand,,Retail,,,,,
+53331,Derubloom Wand,ace53331-derubloomwand,Retail,Item,,,,
 53332,Corrupted Heartwood Wand,,Retail,,,,,
 53333,Derubloom Wand,,Retail,,,,,
 53334,Corrupted Heartwood Wand,,Retail,,,,,
 53335,Scroll of Clouded Soul II,ace53335-scrollofcloudedsoulii,Retail,,,,,
 53336,Scroll of Searing Disc II,ace53336-scrollofsearingdiscii,Retail,,,,,
 53337,Scroll of Horizon's Blades II,ace53337-scrollofhorizonsbladesii,Retail,,,,,
+53338,Scroll of Cassius' Ring of Fire II,ace53338-scrollofcassiusringoffireII,Retail,Item,,,,
 53339,Scroll of Nuhmudira's Spines II,ace53339-scrollofnuhmudirasspinesii,Retail,,,,,
 53340,Scroll of Halo of Frost II,ace53340-scrollofhalooffrostii,Retail,,,,,
+53341,Scroll of Eye of the Storm II,ace53341-scrollofeyeofthestormII,Retail,Item,,,,
 53342,Scroll of Tectonic Rifts II,ace53342-scrolloftectonicriftsii,Retail,,,,,
+53343,Scroll of Ring of Skulls II,ace53343-scrollofringofskullsii,Retail,Item,,,,
 53345,Emerald Thorn Gromnie,,Retail,,,,,
 53346,Vermilion Thorn Gromnie,,Retail,,,,,
 53347,Emerald Hunting Gromnie,,Retail,,,,,
@@ -40638,6 +40647,9 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 53356,Farmer's Basement Portal Gem,,Retail,,,,,
 53357,Lightning Bolt,,Retail,,,,,
 53358,Lightning Bolt,,Retail,,,,,
+53360,Essence of Zerzelikyr,ace53360-essenceofzerzelikyr,Retail,Item,,,,
+53362,Essence of Norshuntyr,ace53362-essenceofnorshuntyr,Retail,Item,,,,
+53364,Essence of Night Brier,ace53364-essenceofnightbrier,Retail,Item,,,,
 53365,Wind Fury,,Retail,,,,,
 53366,Essence of Wind Fury,,Retail,,,,,
 53369,Scroll of Radiant Blood Recall,ace53369-scrollofradiantbloodrecall,Retail,,,,,
@@ -43197,6 +43209,56 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 72623,,,Retail,,Reserved,,Nanjou Stockade,Nanjou Stockade
 72624,,,Retail,,Reserved,,Nanjou Stockade,Nanjou Stockade
 72625,,,Retail,,Reserved,,Nanjou Stockade,Nanjou Stockade
+72626,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72627,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72628,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72629,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72630,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72631,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72632,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72633,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72634,Surface,ace72634-surface,Retail,,Finished,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72635,Legendary Key,ace72635-legendarykey,Retail,,Finished,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72636,Unstable Master Bloodstone Satellite,ace72636-bloodstonesatellite,Retail,,Finished,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72637,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72638,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72639,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72640,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72641,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72642,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72643,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72644,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72645,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72646,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72647,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72648,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72649,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72650,,,Retail,,Reserved,,,"Tanada Intercept and Slaughter, Bloodstone Factory Updates"
+72651,,,Retail,,Reserved,,,Ninja Academy
+72652,,,Retail,,Reserved,,,Ninja Academy
+72653,,,Retail,,Reserved,,,Ninja Academy
+72654,,,Retail,,Reserved,,,Ninja Academy
+72655,,,Retail,,Reserved,,,Ninja Academy
+72656,,,Retail,,Reserved,,,Ninja Academy
+72657,,,Retail,,Reserved,,,Ninja Academy
+72658,,,Retail,,Reserved,,,Ninja Academy
+72659,,,Retail,,Reserved,,,Ninja Academy
+72660,,,Retail,,Reserved,,,Ninja Academy
+72661,,,Retail,,Reserved,,,Ninja Academy
+72662,,,Retail,,Reserved,,,Ninja Academy
+72663,,,Retail,,Reserved,,,Ninja Academy
+72664,,,Retail,,Reserved,,,Ninja Academy
+72665,,,Retail,,Reserved,,,Ninja Academy
+72666,,,Retail,,Reserved,,,Ninja Academy
+72667,,,Retail,,Reserved,,,Ninja Academy
+72668,,,Retail,,Reserved,,,Ninja Academy
+72669,,,Retail,,Reserved,,,Ninja Academy
+72670,,,Retail,,Reserved,,,Ninja Academy
+72671,,,Retail,,Reserved,,,Ninja Academy
+72672,,,Retail,,Reserved,,,Ninja Academy
+72673,,,Retail,,Reserved,,,Ninja Academy
+72674,,,Retail,,Reserved,,,Ninja Academy
+72675,,,Retail,,Reserved,,,Ninja Academy
 73020,Surface Portal,,Retail,,,,,
 73043,0,ace73043-ruschktotem,Retail,,,,,
 73049,Empty Dye Pot,ace73049-emptydyepot,Retail,,,,,
@@ -43285,31 +43347,31 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 74523,,,Retail,,Reserved,,,Hoshino
 74524,,,Retail,,Reserved,,,Hoshino
 74525,,,Retail,,Reserved,,,Hoshino
-79964,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79965,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79966,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79967,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79968,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79969,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79970,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79971,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79972,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79973,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79974,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79975,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79976,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79977,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79978,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79979,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79980,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79981,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79982,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79983,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79984,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79985,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79986,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79987,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
-79988,,,Retail,,Reserved,,,Resolving conflicts on Alchemy Adept's Gems
+79964,Stibnite and Hyssop Crucible,ace79964-stibniteandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79965,Treated Stibnite and Hyssop Crucible,ace79965-treatedstibniteandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79966,Quicksilver and Hyssop Crucible,ace79966-quicksilverandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79967,Treated Quicksilver and Hyssop Crucible,ace79967-treatedquicksilverandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79968,Cadmia and Hyssop Crucible,ace79968-cadmiaandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79969,Treated Cadmia and Hyssop Crucible,ace79969-treatedcadmiaandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79970,Verdigris and Hyssop Crucible,ace79970-verdigrisandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79971,Treated Verdigris and Hyssop Crucible,ace79971-treatedverdigrisandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79972,Brimstone and Hyssop Crucible,ace79972-brimstoneandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79973,Treated Brimstone and Hyssop Crucible,ace79973-treatedbrimstoneandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79974,Colcothar and Hyssop Crucible,ace79974-colcotharandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79975,Treated Colcothar and Hyssop Crucible,ace79975-treatedcolcotharandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79976,Turpeth and Hyssop Crucible,ace79976-turpethandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79977,Treated Turpeth and Hyssop Crucible,ace79977-treatedturpethandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79978,Cobalt and Hyssop Crucible,ace79978-cobaltandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79979,Treated Cobalt and Hyssop Crucible,ace79979-treatedcobaltandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79980,Vitriol and Hyssop Crucible,ace79980-vitriolandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79981,Treated Vitriol and Hyssop Crucible,ace79981-treatedvitriolandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79982,Cinnabar and Hyssop Crucible,ace79982-cinnabarandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79983,Treated Cinnabar and Hyssop Crucible,ace79983-treatedcinnabarandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79984,Gypsum and Hyssop Crucible,ace79984-gypsumandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79985,Treated Gypsum and Hyssop Crucible,ace79985-treatedgypsumandhyssopcrucible,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79986,Adept's Gem of Cold Protection,ace79986-adeptsgemofcoldprotection,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79987,Adept's Gem of Fire Protection,ace79987-adeptsgemoffireprotection,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
+79988,Adept's Gem of Mana Renewal,ace79988-adeptsgemofmanarenewal,Retail,,Finished,,,Resolving conflicts on Alchemy Adept's Gems
 79989,,ace79989-slashinginfusion,Retail,,,,,
 79990,,ace79990-bludgeoninginfusion,Retail,,,,,
 79991,,ace79991-piercinginfusion,Retail,,,,,
@@ -43384,6 +43446,8 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 80065,,generatortombrubble,Retail,,,,,
 80066,,tombrubblenpc,Retail,,,,,
 80067,,ace80067-BloodstoneCrystalStockpilegen,Retail,,,,,
+80068,Fall Festival Events Stopgap!,fallfestivaleventsnpcstopgap,Retail,,,,,
+80069,Fall Festival Events Stopgap Gen,fallfestivaleventsstopgapgen,Retail,Generator,,,,
 80070,,ace80070-ameliadirtpile1gen,Retail,,,,,
 80071,,ace80071-ameliadirtpile2gen,Retail,,,,,
 80072,,ace80072-ameliadirtpile3gen,Retail,,,,,
@@ -43487,6 +43551,11 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 80218,,ace80218-menhirringnineteen,Retail,,,,,
 80219,,ace80219-menhirringtwenty,Retail,,,,,
 80220,,ace80220-inertmenhirring,Retail,,,,,
+80221,New Year Events Stopgap!,newyeareventsnpcstopgap,Retail,,,,,
+80222,New Year Events Stopgap Gen,newyeareventsstopgapgen,Retail,Generator,,,,
+80223,New Years Day Events Stopgap!,newyearsdayeventsnpcstopgap,Retail,,,,,
+80224,New Years Day Events Stopgap Gen,newyearsdayeventsstopgapgen,Retail,Generator,,,,
+80225,Holiday Planner Generator,holidayplannersgen,Retail,Generator,,,,
 80300,,ace80300-blightlictorshead,Retail,,,,,
 80301,,ace80301-scepterofmenilesh,Retail,,,,,
 80302,,ace80302-radiantbloodletterofintroduction,Retail,,,,,
@@ -43641,6 +43710,15 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 80517,,ace80517-tou-toudevourermargulnolumktgen,Retail,,,,,
 80518,,ace80518-tou-toupanumbrisshadownolumktgen,Retail,,,,,
 80519,,ace80519-tou-toushadowflyernolumktgen,Retail,,,,,
+80520,Luminance Wisp,lumwisp5k,Retail,,,,,
+80521,Luminance Wisp,lumwisp15k,Retail,,,,,
+80522,Luminance Wisp,lumwisp30k,Retail,,,,,
+80523,Chest of Mana Forge Keys,chestMFKs,Retail,,,,,
+80524,Chest of Trade Notes,chestMMDs,Retail,,,,,
+80525,Hero Token Generator,herotokengen,Retail,Generator,,,,
+80526,Legendary Key Generator,legkeygen,Retail,Generator,,,,
+80527,Legendary Key Generator,gckeygen,Retail,Generator,,,,
+81000,Harbinger's Lair,ace81000-harbingerslair,Retail,,,,,
 81001,,ace81001-ironphialofacidvulnerability,Retail,,,,,
 81002,,ace81002-ironphialofbludgeonvulnerability,Retail,,,,,
 81003,,ace81003-ironphialofcoldvulnerability,Retail,,,,,
@@ -43696,6 +43774,9 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 81067,,ace81067-empoweredplatinumphialofpiercingvulnerability,Retail,,,,,
 81068,,ace81068-empoweredplatinumphialofbladevulnerability,Retail,,,,,
 81069,,ace81069-empoweredplatinumphialoffester,Retail,,,,,
+81070,Olthoi Token of the Key,ace81070-othoitokenkey,Retail,,,,,
+81071,Olthoi Token of Luminance,ace81071-othoitokenlum,Retail,,,,,
+81072,Olthoi Token of the Experience,ace81072-othoitokenexp,Retail,,,,,
 85000,,ace85000-shadowmarchgen,Retail,,,,,
 85001,,ace85001-bookcase,Retail,,,,,
 85002,,ace85002-bookcase,Retail,,,,,
@@ -43844,6 +43925,8 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 87145,,Aerbax's Shadow Booter Gen,Retail,,,,,
 87146,,Aerbax's Shadow,Retail,,,,,
 87147,,Aerbax's Shadow Booter Controller,Retail,,,,,
+87148,Aerbax's Shadow Booter Gen,ace-87148AerbaxsShadowBooterGen,Retail,Generator,,,,
+87149,Aerbax's Shadow Cleanup Controller,ace87149-aerbaxshadowcleanupcontroller,Retail,,,,,
 87150,,ace87150-storagecrate,Retail,,,,,
 87151,,bluefacepaintrecipe,Retail,,,,,
 87152,,ace87152-westtemplekey,Retail,,,,,
@@ -43967,6 +44050,8 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 87270,,ace87270-DeewainsChamberController,Retail,,,,,
 87271,,Imp Gen,Retail,,,,,
 87272,,Pressure Plate (Messengers Collar),Retail,,,,,
+87274,Knorr Quiddity TimesUp Gen,ace87274-KnorrQuiddityTimesUpGen,Retail,Generator,,,,
+87275,Quiddity Seed,ace87275-QudditySeedTimesUpStopgap,Retail,,,,,
 87277,,ace87277-ulgrimsstout,Retail,,,,,
 87278,,Stout Gen,Retail,,,,,
 87279,,Stout,Retail,,,,,
@@ -44177,6 +44262,19 @@ https://asheron.fandom.com/wiki/Blightfinger%27s_Warrens"
 https://asheron.fandom.com/wiki/Tchk%27Tain_the_Tender"
 87480,Tchk''Tain the Tender Night Gen,tchktainthetendernightgen,Retail,Generator,Finished,Sins of the Fathers,Rare Island Trophies,http://acpedia.org/wiki/Tchk%27Tain_the_Tender
 87481,Tchk''Tain the Tender Day Gen,tchktainthetenderdaygen,Retail,Generator,Finished,Sins of the Fathers,Rare Island Trophies,http://acpedia.org/wiki/Tchk%27Tain_the_Tender
+87484,,,Retail,,Reserved,"From Darkness, Light",The Mage Academy,"New mobs, items from level 150+ Mage Academy Update"
+87485,,,Retail,,Reserved,"From Darkness, Light",The Mage Academy,"New mobs, items from level 150+ Mage Academy Update"
+87486,,,Retail,,Reserved,"From Darkness, Light",The Mage Academy,"New mobs, items from level 150+ Mage Academy Update"
+87487,,,Retail,,Reserved,"From Darkness, Light",The Mage Academy,"New mobs, items from level 150+ Mage Academy Update"
+87488,,,Retail,,Reserved,"From Darkness, Light",The Mage Academy,"New mobs, items from level 150+ Mage Academy Update"
+87489,,,Retail,,Reserved,"From Darkness, Light",The Mage Academy,"New mobs, items from level 150+ Mage Academy Update"
+87490,Wand,ace87490-rytheranwand,Retail,Item,In Progress,"From Darkness, Light",The Mage Academy,Wand for Rytheran's Apprentice
+87491,"Contract for Bloodstone Factory
+",contractforbloodstonefactory,Retail,Other,Finished,Road to Revenge,Bloodstone Investigation,https://asheron.fandom.com/wiki/Contract_for_Bloodstone_Factory 
+87492,,,Retail,,Reserved,Disturbance in the Desert,,Generators for updated Uziz NPCs (Simulacrum variants)
+87493,,,Retail,,Reserved,Disturbance in the Desert,,Generators for updated Uziz NPCs (Simulacrum variants)
+87494,,,Retail,,Reserved,Disturbance in the Desert,,Generators for updated Uziz NPCs (Simulacrum variants)
+87495,,,Retail,,Reserved,Disturbance in the Desert,,Generators for updated Uziz NPCs (Simulacrum variants)
 5000200,,Rock <unselectable>,Custom,,,,,
 5000201,,large rock <unselectable>,Custom,,,,,
 5000202,,Huge Rock <unselectable>,Custom,,,,,
