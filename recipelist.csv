@@ -7103,10 +7103,10 @@ https://asheron.fandom.com/wiki/Treated_Colcothar_and_Hyssop_Crucible"
 8128,Gladiator's Defense Armor Augmentation,Finished,Retail,
 8129,Olthoi Shield Armor Augmentation,Finished,Retail,
 8130,Spectral Shield Armor Augmentation,Finished,Retail,
-8131,,Reserved,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
-8132,,Reserved,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
-8133,,Reserved,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
-8134,,Reserved,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
+8131,Gurog Body,Finished,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
+8132,Gurog Body with one Leg,Finished,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
+8133,Gurog Torso with Arms,Finished,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
+8134,Gurog Torso with an Arm,Finished,Retail,Gurog suit recipes (previously ACE Recipe ID's 7650-7653)
 8200,"You bring the two gems into close proximity, and they fuse into one.",Finished,Retail,
 8201,"You bring the two gems into close proximity, and they fuse into one.",Finished,Retail,
 8202,You bring the two gems into proximity. They both give off a small pop and vanish in clouds of purple mist. The mist coalesces into a ghostly arrow tipped with a small dab of black goo.,Finished,Retail,
@@ -7540,47 +7540,47 @@ https://asheron.fandom.com/wiki/Treated_Colcothar_and_Hyssop_Crucible"
 9072,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
 9073,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
 9074,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
-9075,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
-9076,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
-9077,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
-9078,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
-9079,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
-9080,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
+9075,Broken Lever,Finished,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
+9076,Main Gate Key,Finished,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
+9077,Ancient Skull and Bone,Finished,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
+9078,Ancient Skull and Bones,Finished,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
+9079,Broken Lever (Lower and Middle),Finished,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
+9080,Lever Handle,Finished,Retail,"9074 = Atuakeh Dust, rest for Hoshino "
 9081,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino"
 9082,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino"
 9083,,Reserved,Retail,"9074 = Atuakeh Dust, rest for Hoshino"
-9084,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9085,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9086,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9087,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9088,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9089,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9090,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9091,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9092,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9093,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9094,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9095,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9096,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9097,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9098,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9099,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9100,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9101,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9102,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9103,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9104,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9105,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9106,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9107,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9084,Acid Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9085,Bloodhunter Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9086,Bloodseeker Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9087,Bludgeoning Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9088,Fire Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9089,Frost Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9090,Health Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9091,Lightning Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9092,Mana Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9093,Piercing Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9094,Slashing Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9095,Victual Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9096,Concentrated Acid Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9097,Concentrated Bloodhunter Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9098,Concentrated Bloodseeker Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9099,Concentrated Bludgeoning Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9100,Concentrated Fire Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9101,Concentrated Frost Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9102,Concentrated Health Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9103,Concentrated Lightning Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9104,Concentrated Mana Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9105,Concentrated Piercing Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9106,Concentrated Slashing Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
+9107,Concentrated Victual Oil,Finished,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
 9108,,Reserved,Retail,Alembic Incanta + Concentrated Alembic Incanta recipes.
-9109,,Reserved,Retail,Golden Pumpkin related recipes
-9110,,Reserved,Retail,Golden Pumpkin related recipes
-9111,,Reserved,Retail,Golden Pumpkin related recipes
-9112,,Reserved,Retail,Golden Pumpkin related recipes
-9113,,Reserved,Retail,Scarecrows x 4 + T-Mon Backpack
-9114,,Reserved,Retail,Scarecrows x 4 + T-Mon Backpack
-9115,,Reserved,Retail,Scarecrows x 4 + T-Mon Backpack
-9116,,Reserved,Retail,Scarecrows x 4 + T-Mon Backpack
-9117,,Reserved,Retail,Scarecrows x 4 + T-Mon Backpack
-9118,Tuning Fork,Reserved,Retail,Tuning Fork for Hive Queen Assault quest.
+9109,Scared Jack o' Lantern,Finished,Retail,Golden Pumpkin related recipes
+9110,Stupid Jack o' Lantern,Finished,Retail,Golden Pumpkin related recipes
+9111,Puzzled Jack o' Lantern,Finished,Retail,Golden Pumpkin related recipes
+9112,Evil Jack o' Lantern,Finished,Retail,Golden Pumpkin related recipes
+9113,Scarecrow,Finished,Retail,Scarecrows x 4 + T-Mon Backpack
+9114,Scarecrow,Finished,Retail,Scarecrows x 4 + T-Mon Backpack
+9115,Scarecrow,Finished,Retail,Scarecrows x 4 + T-Mon Backpack
+9116,Scarecrow,Finished,Retail,Scarecrows x 4 + T-Mon Backpack
+9117,T-Mon BackPack,Finished,Retail,Scarecrows x 4 + T-Mon Backpack
+9118,Tuning Fork,Finished,Retail,Tuning Fork for Hive Queen Assault quest.
