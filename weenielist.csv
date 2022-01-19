@@ -43428,6 +43428,81 @@ https://asheron.fandom.com/wiki/Crafter_of_Greatblades"
 72823,,,Retail,,Reserved,,Serpent Burial Grounds Quest,Serpent Burial Grounds
 72824,,,Retail,,Reserved,,Serpent Burial Grounds Quest,Serpent Burial Grounds
 72825,,,Retail,,Reserved,,Serpent Burial Grounds Quest,Serpent Burial Grounds
+72826,,,Retail,,Reserved,,,Summoning Tthuun
+72827,,,Retail,,Reserved,,,Summoning Tthuun
+72828,,,Retail,,Reserved,,,Summoning Tthuun
+72829,,,Retail,,Reserved,,,Summoning Tthuun
+72830,,,Retail,,Reserved,,,Summoning Tthuun
+72831,,,Retail,,Reserved,,,Summoning Tthuun
+72832,,,Retail,,Reserved,,,Summoning Tthuun
+72833,,,Retail,,Reserved,,,Summoning Tthuun
+72834,,,Retail,,Reserved,,,Summoning Tthuun
+72835,,,Retail,,Reserved,,,Summoning Tthuun
+72836,,,Retail,,Reserved,,,Summoning Tthuun
+72837,,,Retail,,Reserved,,,Summoning Tthuun
+72838,,,Retail,,Reserved,,,Summoning Tthuun
+72839,,,Retail,,Reserved,,,Summoning Tthuun
+72840,,,Retail,,Reserved,,,Summoning Tthuun
+72841,,,Retail,,Reserved,,,Summoning Tthuun
+72842,,,Retail,,Reserved,,,Summoning Tthuun
+72843,,,Retail,,Reserved,,,Summoning Tthuun
+72844,,,Retail,,Reserved,,,Summoning Tthuun
+72845,,,Retail,,Reserved,,,Summoning Tthuun
+72846,,,Retail,,Reserved,,,Summoning Tthuun
+72847,,,Retail,,Reserved,,,Summoning Tthuun
+72848,,,Retail,,Reserved,,,Summoning Tthuun
+72849,,,Retail,,Reserved,,,Summoning Tthuun
+72850,,,Retail,,Reserved,,,Summoning Tthuun
+72851,,,Retail,,Reserved,,,Summoning Tthuun
+72852,,,Retail,,Reserved,,,Summoning Tthuun
+72853,,,Retail,,Reserved,,,Summoning Tthuun
+72854,,,Retail,,Reserved,,,Summoning Tthuun
+72855,,,Retail,,Reserved,,,Summoning Tthuun
+72856,,,Retail,,Reserved,,,Summoning Tthuun
+72857,,,Retail,,Reserved,,,Summoning Tthuun
+72858,,,Retail,,Reserved,,,Summoning Tthuun
+72859,,,Retail,,Reserved,,,Summoning Tthuun
+72860,,,Retail,,Reserved,,,Summoning Tthuun
+72861,,,Retail,,Reserved,,,Summoning Tthuun
+72862,,,Retail,,Reserved,,,Summoning Tthuun
+72863,,,Retail,,Reserved,,,Summoning Tthuun
+72864,,,Retail,,Reserved,,,Summoning Tthuun
+72865,,,Retail,,Reserved,,,Summoning Tthuun
+72866,,,Retail,,Reserved,,,Summoning Tthuun
+72867,,,Retail,,Reserved,,,Summoning Tthuun
+72868,,,Retail,,Reserved,,,Summoning Tthuun
+72869,,,Retail,,Reserved,,,Summoning Tthuun
+72870,,,Retail,,Reserved,,,Summoning Tthuun
+72871,,,Retail,,Reserved,,,Summoning Tthuun
+72872,,,Retail,,Reserved,,,Summoning Tthuun
+72873,,,Retail,,Reserved,,,Summoning Tthuun
+72874,,,Retail,,Reserved,,,Summoning Tthuun
+72875,,,Retail,,Reserved,,,Summoning Tthuun
+72876,,,Retail,,Reserved,,,Summoning Tthuun
+72877,,,Retail,,Reserved,,,Summoning Tthuun
+72878,,,Retail,,Reserved,,,Summoning Tthuun
+72879,,,Retail,,Reserved,,,Summoning Tthuun
+72880,,,Retail,,Reserved,,,Summoning Tthuun
+72881,,,Retail,,Reserved,,,Summoning Tthuun
+72882,,,Retail,,Reserved,,,Summoning Tthuun
+72883,,,Retail,,Reserved,,,Summoning Tthuun
+72884,,,Retail,,Reserved,,,Summoning Tthuun
+72885,,,Retail,,Reserved,,,Summoning Tthuun
+72886,,,Retail,,Reserved,,,Summoning Tthuun
+72887,,,Retail,,Reserved,,,Summoning Tthuun
+72888,,,Retail,,Reserved,,,Summoning Tthuun
+72889,,,Retail,,Reserved,,,Summoning Tthuun
+72890,,,Retail,,Reserved,,,Summoning Tthuun
+72891,,,Retail,,Reserved,,,Summoning Tthuun
+72892,,,Retail,,Reserved,,,Summoning Tthuun
+72893,,,Retail,,Reserved,,,Summoning Tthuun
+72894,,,Retail,,Reserved,,,Summoning Tthuun
+72895,,,Retail,,Reserved,,,Summoning Tthuun
+72896,,,Retail,,Reserved,,,Summoning Tthuun
+72897,,,Retail,,Reserved,,,Summoning Tthuun
+72898,,,Retail,,Reserved,,,Summoning Tthuun
+72899,,,Retail,,Reserved,,,Summoning Tthuun
+72900,,,Retail,,Reserved,,,Summoning Tthuun
 73020,Surface Portal,,Retail,,,,,
 73043,0,ace73043-ruschktotem,Retail,,,,,
 73049,Empty Dye Pot,ace73049-emptydyepot,Retail,,,,,
@@ -44751,6 +44826,12 @@ https://asheron.fandom.com/wiki/Tchk%27Tain_the_Tender"
 87819,Jenny,ace87819-jenny,Retail,,Finished,,,
 87820,Jenny Event Gen,ace87820-jennyeventgen,Retail,Generator,Finished,,,
 87821,Presents,ace87821-landscapepresent,Retail,,Finished,,,
+87822,,,Retail,,Reserved,,, 
+87823,,,Retail,,Reserved,,, 
+87824,,,Retail,,Reserved,,, 
+87825,,,Retail,,Reserved,,, 
+87826,,,Retail,,Reserved,,, 
+87827,,,Retail,,Reserved,,, 
 5000200,,Rock <unselectable>,Custom,,,,,
 5000201,,large rock <unselectable>,Custom,,,,,
 5000202,,Huge Rock <unselectable>,Custom,,,,,
@@ -46973,3 +47054,4 @@ https://asheron.fandom.com/wiki/Tchk%27Tain_the_Tender"
 5003088,,Skills,Custom,,,,,
 5003089,,main stats,Custom,,,,,
 5003090,,Skills,Custom,,,,,
+5003091,buffbotgolem,buffbot,Custom,NPC,Reserved,,,A buffing NPC for those looking to avoid running a buff bot character but would still like to keep the buff bot experience feeling close to retail ( and not just an NPC casting a full suite of insta-buffs). Includes customizable sections to switch between retail-accurate spells and full level 8s and more.
