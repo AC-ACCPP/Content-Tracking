@@ -47055,3 +47055,26 @@ https://asheron.fandom.com/wiki/Tchk%27Tain_the_Tender"
 5003089,,main stats,Custom,,,,,
 5003090,,Skills,Custom,,,,,
 5003091,buffbotgolem,buffbot,Custom,NPC,Reserved,,,A buffing NPC for those looking to avoid running a buff bot character but would still like to keep the buff bot experience feeling close to retail ( and not just an NPC casting a full suite of insta-buffs). Includes customizable sections to switch between retail-accurate spells and full level 8s and more.
+5003092,empoweredperfectlightpauldrons,empoweredperfectlightpauldrons,Custom,Item,Reserved,,,Custom Perfect Light Pauldrons
+5003093,empoweredperfectlightbracers,empoweredperfectlightbracers,Custom,Item,Reserved,,,Custom Perfect Light Pauldrons
+5003094,empoweredperfectlightgreaves,empoweredperfectlightgreaves,Custom,Item,Reserved,,,Custom Empowered Perfect Light Greaves
+5003095,empoweredperfectlighttassets,empoweredperfectlighttassets,Custom,Item,Reserved,,,Custom Empowered Perfect Light Tassets
+5003096,empoweredperfectlightgirth,empoweredperfectlightgirth,Custom,Item,Reserved,,,Custom Empowered Perfect Light Girth
+5003097,empoweredperfectlightrobe,empoweredperfectlightrobe,Custom,Item,Reserved,,,Custom Empowered Perfect Light Robe
+5003098,empoweredperfectlightsollerets,empoweredperfectlightsollerets,Custom,Item,Reserved,,,Empowered Perfect Light Sollerets
+5003099,empoweredperfectlighthood,empoweredperfectlighthood,Custom,Item,Reserved,,,Empowered Perfect Light Hood
+5003100,empoweredperfectlightgauntlets,empoweredperfectlightgauntlets,Custom,Item,Reserved,,,Empowered Perfect Light Gauntlets
+5003101,raimentperfectlight,raimentperfectlight,Custom,Item,Reserved,,,Raiment of Perfect Light
+5003102,petguardiangolem,petguardiangolem,Custom,Item,Finished,,,Pet Guardian Golem
+5003103,petguardiangolemstone,petguardiangolemstone,Custom,Item,Finished,,,Pet Guardian Golem Stone
+5003104,diamondgolemessence,diamondgolemessence,Custom,Item,Finished,,,Diamond Golem Essence
+5003105,diamondgolempet,diamondgolempet,Custom,Creature,Finished,,,Diamond Golem Summoning Pet
+5003106,magmagolemessence,magmagolemessence,Custom,Item,Reserved,,,Magma Golem Essence
+5003107,plasmagolemessence,plasmagolemessence,Custom,Item,Reserved,,,Plasma Golem Essence
+5003108,glacialgolemessence,glacialgolemessence,Custom,Item,Reserved,,,Glacial Golem Essence
+5003109,acidiccoralgolemessence,acidiccoralgolemessence,Custom,Item,Reserved,,,Acidic Coral Golem Essence
+5003110,magmagolempet,magmagolempet,Custom,Creature,Reserved,,,Magma Golem Pet
+5003111,plasmagolempet,plasmagolempet,Custom,Creature,Reserved,,,Plasma Golem Pet
+5003112,glacialgolempet,glacialgolempet,Custom,Creature,Reserved,,,Glacial Golem Pet
+5003113,acidiccoralgolempet,acidiccoralgolempet,Custom,Creature,Reserved,,,Acidic Coral Golem Pet
+5003114,empyreanadeptrobe,empyreanadeptrobe,Custom,Item,Reserved,,,Empyrean Adept Robe
